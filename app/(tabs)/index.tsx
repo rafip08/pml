@@ -4,8 +4,8 @@ import { View, Text, StyleSheet } from "react-native";
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello Sistem Informasi</Text>
-      <Text style={styles.text}>Fakultas Sains dan Teknologi</Text>
+      <Text style={styles.text}>Halo dian aku rafi</Text>
+      <Text style={styles.text}>aku ingin kau kembali</Text>
     </View>
   );
 };
